@@ -5,9 +5,13 @@
 }
 
 body{
-    background-color: #f4f4f4;
-    margin: 0;
+    background-color: #faf8f9
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min: height 100vh;
     padding: 20px;
+    color:#333;
 }
 
 .container{
